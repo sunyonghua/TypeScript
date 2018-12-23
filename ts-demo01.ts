@@ -20,6 +20,7 @@ const n: null = null;
 // any 任何类型
 let d: any = 1;
 d = '1';
+
 // 变量未声明未赋值那么也是any类型
 let anyD;
 anyD = '1';
